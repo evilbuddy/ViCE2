@@ -1,3 +1,0 @@
-/home/romeo/Projects/ViCE2/build/CMakeFiles/ViCE.dir
-/home/romeo/Projects/ViCE2/build/CMakeFiles/edit_cache.dir
-/home/romeo/Projects/ViCE2/build/CMakeFiles/rebuild_cache.dir
